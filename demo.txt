@@ -11,4 +11,7 @@ Project Details:
 
 Git helps manage version history, track changes, and collaborate with other developers.
 
-This is my first step toward managing projects with Git and GitHub.
+This is my first step toward managing projects with Git and GitHub.>
+
+
+> My second update on GitHu
