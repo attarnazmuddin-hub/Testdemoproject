@@ -1,17 +1,27 @@
-My First GitHub Project
+# My GitHub Demo Project
 
-Hello Choms! Welcome to my demo project.
+Welcome to my project!
 
-This project is created to manage files and track changes using Git and GitHub.
+## About This Project
+This repository is created to manage project files and track changes using Git and GitHub.
 
-Project Details:
+## Project Information
 - Project Name: Testdemoproject
-- Purpose: Git and GitHub practice
-- File Name: demo.txt
+- Developer: Attar Kaif
+- Version: 1.0
+- Tools Used: Git and GitHub
 
-Git helps manage version history, track changes, and collaborate with other developers.
+## Key Features
+- File management
+- Version control
+- Change tracking
+- Project history management
 
-This is my first step toward managing projects with Git and GitHub.>
+## Project Updates
+Version 1.0 - Initial project created.
+Version 1.1 - Project content updated.
 
+## Goal
+To maintain organized project files and manage updates efficiently using version control.
 
-> My second update on GitHu
+Thank you for visiting my project!
