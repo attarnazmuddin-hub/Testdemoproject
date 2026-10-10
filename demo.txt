@@ -1,1 +1,14 @@
-Hello Choms
+My First GitHub Project
+
+Hello Choms! Welcome to my demo project.
+
+This project is created to manage files and track changes using Git and GitHub.
+
+Project Details:
+- Project Name: Testdemoproject
+- Purpose: Git and GitHub practice
+- File Name: demo.txt
+
+Git helps manage version history, track changes, and collaborate with other developers.
+
+This is my first step toward managing projects with Git and GitHub.
