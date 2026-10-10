@@ -1,27 +1,26 @@
-# My GitHub Demo Project
+My GitHub Demo Project
 
 Welcome to my project!
 
-## About This Project
+About This Project
 This repository is created to manage project files and track changes using Git and GitHub.
 
-## Project Information
-- Project Name: Testdemoproject
-- Developer: Attar Kaif
-- Version: 1.0
-- Tools Used: Git and GitHub
+Project Information
+Project Name: Testdemoproject
+Developer: Attar Kaif
+Version: 1.0
+Tools Used: Git and GitHub
 
-## Key Features
-- File management
-- Version control
-- Change tracking
-- Project history management
+Key Features
+File management
+Version control
+Change tracking
+Project history management
+Project Updates
 
-## Project Updates
 Version 1.0 - Initial project created.
 Version 1.1 - Project content updated.
 
-## Goal
+Goal
 To maintain organized project files and manage updates efficiently using version control.
-
 Thank you for visiting my project!
